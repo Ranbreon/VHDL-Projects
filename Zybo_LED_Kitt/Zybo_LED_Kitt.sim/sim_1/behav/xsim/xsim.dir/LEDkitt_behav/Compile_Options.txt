@@ -1,0 +1,1 @@
+-wto "c44cee3e65fc4993b9797a2d1ae4c161" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "LEDkitt_behav" "xil_defaultlib.LEDkitt" -log "elaborate.log" 
